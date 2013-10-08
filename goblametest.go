@@ -1,1 +1,3 @@
 package goblametest
+
+import "fmt"
